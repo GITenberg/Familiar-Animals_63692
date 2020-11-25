@@ -1,0 +1,30 @@
+_repo: Familiar-Animals_63692
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2020-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Friendly Animal Series
+subjects:
+- !lcsh 'Domestic animals -- Juvenile fiction'
+- !lcsh 'Picture books for children'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The cow -- How the calf was fed -- The horse.
+title: Familiar Animals
+url: http://www.gutenberg.org/ebooks/63692
